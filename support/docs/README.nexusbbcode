@@ -1,17 +1,109 @@
-Adds new snap points to vanilla ship parts where it felt like they were missing. Largely stays within the grid established so far. Check [b]CHANGELOG [/b]above for more info about parts changed.
+[size=5][b]Better Ship Part Snaps[/b][/size]
+created by Freschu, maintained and updated by rux616
 
-[size=5]Follow these [url=https://starfieldwiki.net/wiki/Starfield_Mod:Mods]Instructions[/url] ﻿to use this mod.[/size]
+Version: 0.4.0
 
-[b]Main/Optional File[/b]
+[size=4][b][u]Table Of Contents:[/u][/b][/size]
+- Better Ship Part Snaps
+    - Table Of Contents
+- Overview
+    - Summary
+    - Compatibility
+    - Known Issues
+- Installation
+    - Archive Invalidation
+    - Requirements
+    - Recommendations
+    - Upgrading
+    - Mod Manager
+    - Manual (NOT RECOMMENDED)
+- License
+- Credits and Acknowledgements
+- Contact
 
-The optional file is meant as addition to the main file. You can use both together, but can also use them standalone.
 
-[list]
-[*]The main file provides the additional snap points for most of the structurals, some of the cockpits and some of the landing gears.
-[*]The optional file provides only  the new snap points for the reactors and grav drives.
-[/list]
-Should be compatible with ship stat change mods. Data structures this mod changes: STMP, MSTT
+[size=5][b]Overview[/b][/size]
 
-[size=3][b]For flips and rotations, see my other mod [url=https://www.nexusmods.com/starfield/mods/5953]Better Ship Part Flips[/url] or use [url=https://www.nexusmods.com/starfield/mods/6029]Ship Module Snap Expansion - SMSEX[/url].[/b] [/size]
+[size=4][b][u]Summary:[/u][/b][/size]
+(Adds new snap points to vanilla ship parts where it felt like they were missing. Largely stays within the grid established so far.)
+
+It is recommended that you use another mod or adjust your INI manually ("Spaceship" section, "fShipBuilderModuleOverlapTolerance" setting) to set your tolerances to something like -1.0 (default is -0.25), otherwise some snaps may not be usable.
+
+For flips and rotations, see another of my mods, [url=https://www.nexusmods.com/starfield/mods/5953]Better Ship Part Flips[/url], or use [url=https://www.nexusmods.com/starfield/mods/6029]Ship Module Snap Expansion - SMSEX[/url].
+
+Main/Optional File:
+- The main file provides the additional snap points for most of the structural modules, some of the cockpits and some of the landing gears.
+- The optional file provides only the new snap points for the reactors and grav drives.
+
+(For mod authors): Data structures modified or added: MSTT, STMP
+
+[size=4][b][u]Compatibility:[/u][/b][/size]
+Should be mostly compatible with other ship stat change mods.
 
 Since I'm not the author of Ship Module Snap Expansion, I cannot guarantee it will be compatible to my mod, but as of Sept 28 10 2023, it was compatible in that all my snaps for vanilla parts where working but flips/rotations [b]added[/b] by Ship Module Snap Expansion [b]didn't[/b] have my snaps.
+
+[size=4][b][u]Known Issues:[/u][/b][/size]
+- Some Panoptes engines share snaps with their smaller counterparts, resulting in some weird snap locations.
+
+
+[size=5][b]Installation[/b][/size]
+
+[size=4][b][u]Archive Invalidation:[/u][/b][/size]
+Make sure your [font=Courier New][color=#b2b2b2]StarfieldCustom.ini[/color][/font] file in the "Documents\My Games\Starfield" folder (or your profile folder if using a mod manager and profiles) contains the following:
+
+    [font=Courier New][color=#b2b2b2][Archive][/color][/font]
+    [font=Courier New][color=#b2b2b2]bInvalidateOlderFiles=1[/color][/font]
+    [font=Courier New][color=#b2b2b2]sResourceDataDirsFinal=[/color][/font]
+
+[size=4][b][u]Requirements:[/u][/b][/size]
+None, if using Starfield v1.12.32.0 or above.
+
+[size=4][b][u]Recommendations:[/u][/b][/size]
+NOTE: StarUI Ship Builder v1.2 doesn't work with Starfield v1.11.36+, so if you're running that version of the mod with that version of Starfield, you'll have to go without for the moment.
+
+- [url=https://www.nexusmods.com/starfield/mods/6402]StarUI Ship Builder[/url]: This mod arranges the categories in a vertical list and adds some filtering options, both of which greatly enhance usability.
+
+[size=4][b][u]Upgrading:[/u][/b][/size]
+When upgrading non-major versions (for example v2.something to v2.something-else), you don't need to do anything except replace the installed mod files.
+
+When upgrading major versions (for example v1.whatever to v2.whatever), you need to do a clean install:
+- Open the game and load your latest save
+- Save your game, then quit
+- Uninstall the previous version of the plugin and all its files
+- Open the game and load your last save
+- You will see a warning about missing the plugin you just uninstalled, choose to continue
+- Save your game again, then quit
+- Install the new version of the plugin
+
+[size=4][b][u]Mod Manager:[/u][/b][/size]
+Download and install the archive with either [url=https://github.com/ModOrganizer2/modorganizer/releases]Mod Organizer 2[/url] (version 2.5.0 or later) or [url=https://www.nexusmods.com/site/mods/1]Vortex[/url]. I personally recommend Mod Organizer 2 (with the optional [url=https://kezyma.github.io/?p=rootbuilder]Root Builder[/url] plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
+
+[size=4][b][u]Manual (NOT RECOMMENDED):[/u][/b][/size]
+Extract the archive to your Starfield installation's "Data" folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield\Data"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with [font=Courier New][color=#b2b2b2]*[/color][/font].
+
+
+[size=5][b]License[/b][/size]
+- All code files are copyright 2023, 2024 Dan Cassidy, and are licensed under the [url=https://www.gnu.org/licenses/gpl-3.0.en.html]GPL v3.0 or later[/url].
+- All non-code files are copyright 2023, 2024 Dan Cassidy, and are licensed under the [url=https://creativecommons.org/licenses/by-nc-sa/4.0/]CC BY-NC-SA 4.0[/url] license.
+- Original ESM file copyright 2023 Freschu.
+
+
+[size=5][b]Credits and Acknowledgements[/b][/size]
+Freschu: For initially creating this mod
+ElminsterAU: For xEdit and BSArch
+Mod Organizer 2 team: For getting Mod Organizer 2 with Starfield support out the door so quickly
+Nexus Mods: For mod hosting and for the Vortex Mod Manager
+Noggog: For Spriggit
+
+
+[size=5][b]Contact[/b][/size]
+If you find a bug or have a question about the mod, please post it on the [url=https://www.nexusmods.com/starfield/mods/5698]mod page at Nexus Mods[/url], or in the [url=https://github.com/rux616/starfield-better-ship-part-snaps]GitHub project[/url].
+
+If you need to contact me personally, I can be reached through one of the following means:
+- [b]Nexus Mods[/b]: [url=https://www.nexusmods.com/users/124191]rux616[/url] (Send a message via the "CONTACT" button.)
+- [b]Email[/b]: rux616-at-pm-dot-me (replace [font=Courier New][color=#b2b2b2]-at-[/color][/font] with [font=Courier New][color=#b2b2b2]@[/color][/font] and [font=Courier New][color=#b2b2b2]-dot-[/color][/font] with [font=Courier New][color=#b2b2b2].[/color][/font])
+- [b]Discord[/b]: rux616 (user ID 234489279991119873) - make sure to "@" me
+    - [url=https://discord.gg/livelymods]Lively's Modding Hub[/url]
+    - [url=https://discord.gg/nexusmods]Nexus Mods[/url]
+    - [url=https://discord.gg/pF9U5FmD6w]Collective Modding[/url] ("🔧-chaotic-cognitions" channel)
+    - [url=https://discord.gg/6R4Yq5KjW2]Starfield Modding[/url]

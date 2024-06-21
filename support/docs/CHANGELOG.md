@@ -3,13 +3,13 @@ Better Ship Part Snaps
 
 Table Of Contents
 -----------------
-- Better Ship Part Snaps
-    - Table Of Contents
-- Changelog
-    - v0.4.0
-    - v0.3.0
-    - v0.2.0
-    - v0.1.0
+- [Better Ship Part Snaps](#better-ship-part-snaps)
+    - [Table Of Contents](#table-of-contents)
+- [Changelog](#changelog)
+    - [v0.4.0](#v040)
+    - [v0.3.0](#v030)
+    - [v0.2.0](#v020)
+    - [v0.1.0](#v010)
 
 
 Changelog
@@ -22,6 +22,8 @@ v0.4.0
 - Serialized plugins
 - Removed unnecessary master BlueprintShips-Starfield.esm
 
+([TOC](#table-of-contents))
+
 v0.3.0
 ------
 Released 2023-10-28
@@ -29,11 +31,15 @@ Released 2023-10-28
 - Stroud-Eklund Engine Brace A, new top/bottom centered snaps for structural and equipment ship modules.
 - Deimos Skeg B new bottom snap
 
+([TOC](#table-of-contents))
+
 v0.2.0
 ------
 Released 2023-10-23
 - Deimos Cowl Fore/Aft new snaps
 - Optional: all snaps for reactors/grav drives
+
+([TOC](#table-of-contents))
 
 v0.1.0
 ------
@@ -50,3 +56,5 @@ Released 2023-10-21
 - Cockpits (HopeTech Overseer, Kon-Tiki)
 - Engines (Panoptes)
 - Cargo (various)
+
+([TOC](#table-of-contents))
