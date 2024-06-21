@@ -1,0 +1,25 @@
+v0.3.0
+------
+Slayton 4000 engines, fore snaps and side snaps
+Stroud-Eklund Engine Brace A, new top/bottom centered snaps for structurals and equipment.
+Deimos Skeg B new bottom snap
+
+v0.2.0
+------
+Deimos Cowl Fore/Aft new snaps
+Optional: all snaps for reactors/gravdrives
+
+v0.1.0
+------
+Deimos structural parts (wings, skegs, spines, bumpers)
+Hopetech structural parts (caps)
+Stroud-Eklund structural parts (caps)
+Nova structural parts (cowl short, cowl long, braking engine)
+Taiyo structural parts (sidecap)
+Deimos 320CB landing gear
+Hopetech Hope-6 landing gear
+Nova NG-20 landing gear
+Taiyo Pinpoint-3G landing gear
+Cockpits (HopeTech Overseer, Kon-Tiki)
+Engines (Panoptes)
+Cargo (various)
