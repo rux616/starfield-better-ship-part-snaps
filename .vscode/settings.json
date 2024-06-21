@@ -1,0 +1,33 @@
+{
+  "cSpell.words": [
+    "COBJ",
+    "cognitions",
+    "Eklund",
+    "Elminster",
+    "FLST",
+    "FOMOD",
+    "Freschu",
+    "GBFM",
+    "grav",
+    "MSTT",
+    "navmesh",
+    "Noggog",
+    "Nosecap",
+    "Panoptes",
+    "PKIN",
+    "REFR",
+    "SFSE",
+    "sidecap",
+    "Slayton",
+    "SMSEX",
+    "Spriggit",
+    "steamapps",
+    "STMP",
+    "subrecords",
+    "Taiyo"
+  ],
+  "markdownlint.config": {
+    "MD034": false,
+    "MD041": false
+  }
+}
