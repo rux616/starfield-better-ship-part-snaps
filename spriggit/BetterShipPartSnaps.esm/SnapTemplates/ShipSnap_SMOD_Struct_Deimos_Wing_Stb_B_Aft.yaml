@@ -1,0 +1,30 @@
+FormKey: 32B3DB:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Deimos_Wing_Stb_B_Aft
+Nodes:
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: 2.72, 0.04, -0.83
+  Rotation: 90, 0, 180
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Rotation: 0, 0, -90
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 2.72, 0.04, 0.83
+  Rotation: 270, 0, 0
+- NodeID: 13
+  Node: 04AB70:Starfield.esm
+  Offset: 4, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 14
+  Node: 04AB6F:Starfield.esm
+  Offset: 4, 4, 0
+- NodeID: 15
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 16
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 17
+STPT: 0

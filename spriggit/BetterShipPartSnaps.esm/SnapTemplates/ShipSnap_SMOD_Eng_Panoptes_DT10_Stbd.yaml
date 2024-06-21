@@ -1,0 +1,17 @@
+FormKey: 22EAD3:Starfield.esm
+EditorID: ShipSnap_SMOD_Eng_Panoptes_DT10_Stbd
+Nodes:
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Rotation: 0, 0, -90
+- NodeID: 11
+  Node: 04AB6F:Starfield.esm
+  Offset: 2, 4, 0
+- NodeID: 12
+  Node: 04AB6F:Starfield.esm
+  Offset: 2, 4, 1.75
+- NodeID: 13
+  Node: 04AB6F:Starfield.esm
+  Offset: 2, 4, -1.75
+NextNodeID: 14
+STPT: 0

@@ -1,0 +1,21 @@
+FormKey: 237C2B:Starfield.esm
+EditorID: ShipSnap_SMOD_Cockpit_Stroud_KonTiki-B-500
+Nodes:
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: -3.16, 1.31, 3.44
+  Rotation: 270, 0, 0
+- NodeID: 13
+  Node: 04AB85:Starfield.esm
+  Offset: 3.16, 1.31, 3.44
+  Rotation: 270, 0, 0
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 1.75
+  Rotation: 0, 0, 180
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 3.5
+  Rotation: 270, 0, 0
+NextNodeID: 14
+STPT: 0

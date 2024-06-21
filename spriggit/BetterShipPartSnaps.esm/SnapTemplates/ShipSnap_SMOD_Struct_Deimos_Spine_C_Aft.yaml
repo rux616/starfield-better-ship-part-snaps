@@ -1,0 +1,28 @@
+FormKey: 32B3D5:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Deimos_Spine_C_Aft
+Nodes:
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: -1.85, -1, -0.6
+  Rotation: 345, 90, 270
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 0, 2.25, 0.01
+  Rotation: 270, 0, 0
+- NodeID: 13
+  Node: 04AB85:Starfield.esm
+  Offset: 1.85, -1, -0.6
+  Rotation: 197, 90, 270
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 14
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 15
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 16
+STPT: 0

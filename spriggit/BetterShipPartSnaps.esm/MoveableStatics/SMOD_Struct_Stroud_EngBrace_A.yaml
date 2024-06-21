@@ -1,0 +1,21 @@
+FormKey: 23BBE8:Starfield.esm
+EditorID: SMOD_Struct_Stroud_EngBrace_A
+ObjectBounds:
+  First: -4, -3.0019531, -1.2333984
+  Second: 4, 3, 1.2353516
+ODTY: 0
+SnapTemplate: 000824:BetterShipPartSnaps.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_EngBrace_A.nif
+  MaterialSwaps:
+  - 055686:Starfield.esm
+  - 055687:Starfield.esm
+  - 0B6B22:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 1D9C96:Starfield.esm
+- 207960:Starfield.esm
+DATA: 6
+MSMO: 1000

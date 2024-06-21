@@ -1,0 +1,24 @@
+FormKey: 239319:Starfield.esm
+EditorID: SMOD_Struct_Deimos_Wing_Port_D
+ObjectBounds:
+  First: -4.0703125, -4.0039062, -1.2421875
+  Second: 0.0009765625, 4, 1.2382812
+ODTY: 0
+SnapTemplate: 000804:BetterShipPartSnaps.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Wing_Port_D.nif
+  MaterialSwaps:
+  - 03EF7B:Starfield.esm
+  - 03EF7C:Starfield.esm
+  - 03EF7D:Starfield.esm
+  - 03EF81:Starfield.esm
+  - 0B6B10:Starfield.esm
+  - 0B6B14:Starfield.esm
+  - 0B6B27:Starfield.esm
+  - 2F25A2:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

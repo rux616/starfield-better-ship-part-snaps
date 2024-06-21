@@ -1,0 +1,17 @@
+FormKey: 2392F7:Starfield.esm
+EditorID: SMOD_Struct_Deimos_Radiator_A
+ObjectBounds:
+  First: -1.4404297, -4, -1.75
+  Second: 1.4414062, 4, -0.032348633
+ODTY: 0
+SnapTemplate: 22F290:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Radiator_A.nif
+  MaterialSwaps:
+  - 0B6B10:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

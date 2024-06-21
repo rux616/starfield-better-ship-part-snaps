@@ -1,0 +1,25 @@
+FormKey: 236262:Starfield.esm
+EditorID: SMOD_Struct_Hope_CapMidPort_A
+ObjectBounds:
+  First: -2.359375, -4, -1.75
+  Second: 4, 4, 0.63427734
+ODTY: 0
+SnapTemplate: 237C3C:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_CapMidPort_A.nif
+  MaterialSwaps:
+  - 0B6B08:Starfield.esm
+  - 0B6B12:Starfield.esm
+  - 0B6B1B:Starfield.esm
+  - 0B6B1C:Starfield.esm
+  - 0B6B1F:Starfield.esm
+  - 0B6B2A:Starfield.esm
+  - 0B6B3B:Starfield.esm
+  - 1BEA53:Starfield.esm
+  - 22BF01:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

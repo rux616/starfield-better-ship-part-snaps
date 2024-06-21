@@ -1,0 +1,65 @@
+FormKey: 237C47:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Stroud_Cap_ForeTop_2W_A
+Nodes:
+- NodeID: 11
+  Node: 04AB70:Starfield.esm
+  Offset: -4, -8, 0
+  Rotation: 0, 0, 180
+- NodeID: 20
+  Node: 04AB78:Starfield.esm
+  Offset: 4, 4, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 4, -4, 1.75
+  Rotation: -90, 0, 0
+- NodeID: 18
+  Node: 04AB85:Starfield.esm
+  Offset: -4.01, 3.16, 0.56
+  Rotation: 270, 0, 0
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 8, -4, 0
+  Rotation: 0, 0, 90
+- NodeID: 13
+  Node: 04AB78:Starfield.esm
+  Offset: -4, -4, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 16
+  Node: 04AB85:Starfield.esm
+  Offset: 0, -0.77, 1.65
+  Rotation: 270, 0, 0
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 4, -8, 0
+  Rotation: 0, 0, 180
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 4, -4, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 19
+  Node: 04AB78:Starfield.esm
+  Offset: -4, 4, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 12
+  Node: 04AB77:Starfield.esm
+  Offset: -4, -4, 1.75
+  Rotation: -90, 0, 0
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -8, -4, 0
+  Rotation: 0, 0, -90
+- NodeID: 17
+  Node: 04AB85:Starfield.esm
+  Offset: 4.01, 3.16, 0.56
+  Rotation: 270, 0, 0
+- NodeID: 21
+  Node: 04AB74:Starfield.esm
+  Offset: 8, 4, 0
+  Rotation: 0, 0, 90
+- NodeID: 22
+  Node: 04AB73:Starfield.esm
+  Offset: -8, 4, 0
+  Rotation: 0, 0, -90
+NextNodeID: 23
+STPT: 0

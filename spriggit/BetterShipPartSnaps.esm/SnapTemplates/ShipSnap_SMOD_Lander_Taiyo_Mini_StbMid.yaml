@@ -1,0 +1,19 @@
+FormKey: 221ADC:Starfield.esm
+EditorID: ShipSnap_SMOD_Lander_Taiyo_Mini_StbMid
+Nodes:
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 1.7, 0, 2.57
+  Rotation: 270, 0, 0
+- NodeID: 13
+  Node: 04AB73:Starfield.esm
+  Rotation: 0, 0, 270
+- NodeID: 14
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 15
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 16
+STPT: 0

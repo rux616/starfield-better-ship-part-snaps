@@ -1,0 +1,20 @@
+FormKey: 2392E5:Starfield.esm
+EditorID: SMOD_Struct_Deimos_Skeg_A
+ObjectBounds:
+  First: -1.984375, -3.984375, -1.7265625
+  Second: 1.984375, 4.0976562, 1.7529297
+ODTY: 0
+SnapTemplate: 17AB1F:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Skeg_A.nif
+  MaterialSwaps:
+  - 03EF78:Starfield.esm
+  - 03EF7B:Starfield.esm
+  - 03EF7E:Starfield.esm
+  - 0B6B10:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,0 +1,16 @@
+FormKey: 155F6C:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Deimos_Bumper_Stbd
+Nodes:
+- NodeID: 4
+  Node: 04AB73:Starfield.esm
+  Rotation: 0, 0, 270
+- NodeID: 5
+  Node: 04AB70:Starfield.esm
+  Offset: 4, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 6
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+NextNodeID: 7
+STPT: 0

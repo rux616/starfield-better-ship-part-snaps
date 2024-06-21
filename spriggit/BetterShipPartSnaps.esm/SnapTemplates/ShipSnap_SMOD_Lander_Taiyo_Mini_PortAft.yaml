@@ -1,0 +1,11 @@
+FormKey: 221AE9:Starfield.esm
+EditorID: ShipSnap_SMOD_Lander_Taiyo_Mini_PortAft
+Nodes:
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Rotation: 0, 0, 90
+- NodeID: 11
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 12
+STPT: 0
