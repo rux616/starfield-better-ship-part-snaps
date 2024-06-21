@@ -1,5 +1,6 @@
 FormKey: 00081D:BetterShipPartSnaps.esm
 EditorID: ShipSnap_SMOD_Lander_Hope_Hope-6_PortFore
+FormVersion: 559
 Nodes:
 - NodeID: 12
   Node: 04AB85:Starfield.esm

@@ -1,5 +1,6 @@
 FormKey: 17ACC9:Starfield.esm
 EditorID: SMOD_Struct_Nova_CowlShort_ForePort
+FormVersion: 559
 ObjectBounds:
   First: 0.4296875, -4, -1.7558594
   Second: 4, 4.125, 1.4726562

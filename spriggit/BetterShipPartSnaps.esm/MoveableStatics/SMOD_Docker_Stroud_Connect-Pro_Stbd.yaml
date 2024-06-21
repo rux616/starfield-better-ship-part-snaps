@@ -1,5 +1,6 @@
 FormKey: 1E0526:Starfield.esm
 EditorID: SMOD_Docker_Stroud_Connect-Pro_Stbd
+FormVersion: 559
 ObjectBounds:
   First: -4.0000005, -4.0000005, -1.9638672
   Second: 4.0000005, 4, 1.7685547

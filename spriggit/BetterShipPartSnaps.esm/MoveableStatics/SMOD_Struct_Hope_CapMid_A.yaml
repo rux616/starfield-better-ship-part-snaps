@@ -1,5 +1,6 @@
 FormKey: 23624E:Starfield.esm
 EditorID: SMOD_Struct_Hope_CapMid_A
+FormVersion: 559
 ObjectBounds:
   First: -4, -4, -1.75
   Second: 4, 4, 0.4111328

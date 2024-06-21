@@ -1,0 +1,18 @@
+FormKey: 17ACEB:Starfield.esm
+EditorID: SMOD_Reactor_Deep_Spheromak-DC201_lvl48
+FormVersion: 559
+ObjectBounds:
+  First: -4.0000005, -3.9042962, -1.71875
+  Second: 4.0000005, 4.003906, 1.71875
+ODTY: 0
+SnapTemplate: 059B01:Starfield.esm
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_Deep_Spheromak-DC201.nif
+  MaterialSwaps:
+  - 08DF21:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4
