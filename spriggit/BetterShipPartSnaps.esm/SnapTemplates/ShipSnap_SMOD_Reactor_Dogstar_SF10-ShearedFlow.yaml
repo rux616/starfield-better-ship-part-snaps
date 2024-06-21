@@ -1,0 +1,44 @@
+FormKey: 17AB60:Starfield.esm
+EditorID: ShipSnap_SMOD_Reactor_Dogstar_SF10-ShearedFlow
+FormVersion: 559
+Nodes:
+- NodeID: 12
+  Node: 04AB74:Starfield.esm
+  Offset: 4, 0, 1.75
+  Rotation: 0, 0, 90
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, -1.75
+  Rotation: 0, 0, -90
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 4, 0, -1.75
+  Rotation: 0, 0, 90
+- NodeID: 13
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 1.75
+- NodeID: 11
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 1.75
+  Rotation: 0, 0, -90
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, -1.75
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, -1.75
+  Rotation: 0, 0, 180
+- NodeID: 14
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 1.75
+  Rotation: 0, 0, 180
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 3.5
+  Rotation: 270, 0, 0
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -3.5
+  Rotation: 90, 0, 180
+NextNodeID: 15
+STPT: 0
