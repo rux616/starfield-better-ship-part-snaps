@@ -1,0 +1,18 @@
+FormKey: 19205A:Starfield.esm
+EditorID: SMOD_Struct_Deimos_Bumper_StbdAft
+ObjectBounds:
+  First: 0.0064697266, -4, -1.4394531
+  Second: 4.1796875, 4, 1.4511719
+ODTY: 0
+SnapTemplate: 000802:BetterShipPartSnaps.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Bumper_StbdAft.nif
+  MaterialSwaps:
+  - 0B6B10:Starfield.esm
+  - 2D7344:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

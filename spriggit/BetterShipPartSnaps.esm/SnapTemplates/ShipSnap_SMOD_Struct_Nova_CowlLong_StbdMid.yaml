@@ -1,0 +1,32 @@
+FormKey: 27ED49:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Nova_CowlLong_StbdMid
+Nodes:
+- NodeID: 18
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 13
+  Node: 04AB85:Starfield.esm
+  Offset: -0.95, 0, -1.53
+  Rotation: 90, 180, 0
+- NodeID: 15
+  Node: 04AB85:Starfield.esm
+  Offset: -0.95, 0, 1.53
+  Rotation: 270, 0, 0
+- NodeID: 16
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, 270
+- NodeID: 19
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 20
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 1.75
+  Rotation: 270, 0, 0
+NextNodeID: 21
+STPT: 0

@@ -1,0 +1,18 @@
+FormKey: 294CF9:Starfield.esm
+EditorID: SMOD_Cargo_Dogstar_StorMax-40_Port
+ObjectBounds:
+  First: 0.34057617, -4, -1.7509766
+  Second: 4.0078125, 4, 1.7509766
+ODTY: 0
+SnapTemplate: 237C45:Starfield.esm
+Model:
+  File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Dogstar_StorMax-40_Port.nif
+  MaterialSwaps:
+  - 03EF74:Starfield.esm
+  - 0FFAF6:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

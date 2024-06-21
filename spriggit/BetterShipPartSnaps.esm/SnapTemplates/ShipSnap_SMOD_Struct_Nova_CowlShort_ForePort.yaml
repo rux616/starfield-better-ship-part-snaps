@@ -1,0 +1,17 @@
+FormKey: 000818:BetterShipPartSnaps.esm
+EditorID: ShipSnap_SMOD_Struct_Nova_CowlShort_ForePort
+Nodes:
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 4, 0, 0
+  Rotation: 0, 0, 90
+- NodeID: 7
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 8
+  Node: 04AB70:Starfield.esm
+  Offset: 4, -4, 0
+  Rotation: 0, 0, 180
+NextNodeID: 11
+STPT: 0

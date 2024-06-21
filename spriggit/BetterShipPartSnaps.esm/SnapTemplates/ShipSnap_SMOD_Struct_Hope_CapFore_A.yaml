@@ -1,0 +1,25 @@
+FormKey: 22D275:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Hope_CapFore_A
+Nodes:
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 2.7755576E-17, -1.1, 0.47
+  Rotation: 270, 0, 0
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 12
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 13
+  Node: 04AB74:Starfield.esm
+  Offset: 4, 0, 0
+  Rotation: 0, 0, 90
+- NodeID: 14
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+NextNodeID: 15
+STPT: 0

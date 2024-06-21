@@ -1,0 +1,23 @@
+FormKey: 23BBFA:Starfield.esm
+EditorID: SMOD_Struct_Stroud_Cap_StbBtm_1L_B
+ObjectBounds:
+  First: -4.0195312, -4.03125, -1.7548828
+  Second: 3.9863281, 4.0351562, 1.7539062
+ODTY: 0
+SnapTemplate: 237C44:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_Cap_StbBtm_1L_B.nif
+  MaterialSwaps:
+  - 03EF74:Starfield.esm
+  - 0B6B3A:Starfield.esm
+  - 2AF782:Starfield.esm
+  - 2AF783:Starfield.esm
+  - 2F2599:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 1D9C96:Starfield.esm
+- 207960:Starfield.esm
+DATA: 6
+MSMO: 1000

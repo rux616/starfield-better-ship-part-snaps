@@ -1,0 +1,29 @@
+FormKey: 000824:BetterShipPartSnaps.esm
+EditorID: ShipSnap_SMOD_Struct_Stroud_EngBrace_A
+Nodes:
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 4, 0, 0
+  Rotation: 0, 0, 90
+- NodeID: 9
+  Node: 04AB85:Starfield.esm
+  Offset: 0, 0.85, 0.425
+  Rotation: 270, 0, 0
+- NodeID: 8
+  Node: 04AB85:Starfield.esm
+  Offset: 0, 0.85, -0.425
+  Rotation: 90, 0, 180
+- NodeID: 5
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 0.425
+  Rotation: 270, 0, 0
+- NodeID: 4
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -0.425
+  Rotation: 90, 0, 180
+NextNodeID: 11
+STPT: 0

@@ -1,0 +1,19 @@
+FormKey: 2392E7:Starfield.esm
+EditorID: SMOD_Lander_Deimos_320CB
+ObjectBounds:
+  First: -2.453125, -3.9902344, -1.7626953
+  Second: 2.453125, 3.9902344, 1.75
+ODTY: 0
+SnapTemplate: 1A1D51:Starfield.esm
+Model:
+  File: Ships\Modules\Lander\SMOD\SMOD_Lander_Deimos_320CB.nif
+  MaterialSwaps:
+  - 03EF76:Starfield.esm
+  - 0B6B14:Starfield.esm
+  - 29D8A3:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

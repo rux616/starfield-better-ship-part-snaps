@@ -1,0 +1,22 @@
+FormKey: 22E340:Starfield.esm
+EditorID: ShipSnap_SMOD_Struct_Deimos_Wing_Port_C
+Nodes:
+- NodeID: 14
+  Node: 04AB74:Starfield.esm
+  Rotation: 0, 0, 90
+- NodeID: 16
+  Node: 04AB70:Starfield.esm
+  Offset: -4, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 17
+  Node: 04AB6F:Starfield.esm
+  Offset: -4, 4, 0
+- NodeID: 18
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 19
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 20
+STPT: 0

@@ -1,0 +1,23 @@
+FormKey: 2392EF:Starfield.esm
+EditorID: SMOD_Struct_Deimos_Spine_E
+ObjectBounds:
+  First: -1.6181641, -4, -1.75
+  Second: 1.6181641, 4, 1.7558594
+ODTY: 0
+SnapTemplate: 000800:BetterShipPartSnaps.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Spine_E.nif
+  MaterialSwaps:
+  - 03EF74:Starfield.esm
+  - 03EF7A:Starfield.esm
+  - 03EF7B:Starfield.esm
+  - 03EF7D:Starfield.esm
+  - 0B6B05:Starfield.esm
+  - 0B6B10:Starfield.esm
+  - 22BF01:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,0 +1,20 @@
+FormKey: 17ACF3:Starfield.esm
+EditorID: SMOD_Lander_Nova_NG-20_Wide
+ObjectBounds:
+  First: -4, -4, -1.1914062
+  Second: 4, 4, 1.75
+ODTY: 0
+SnapTemplate: 237C4D:Starfield.esm
+Model:
+  File: Ships\Modules\Lander\SMOD\SMOD_Lander_Nova_NG-20_Wide.nif
+  MaterialSwaps:
+  - 08DF19:Starfield.esm
+  - 08DF67:Starfield.esm
+  - 0B6B0A:Starfield.esm
+  - 0B6B31:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

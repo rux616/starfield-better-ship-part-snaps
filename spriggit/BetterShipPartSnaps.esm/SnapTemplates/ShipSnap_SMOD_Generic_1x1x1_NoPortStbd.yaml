@@ -1,0 +1,20 @@
+FormKey: 000800:BetterShipPartSnaps.esm
+EditorID: ShipSnap_SMOD_Generic_1x1x1_NoPortStbd
+Nodes:
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 1.75
+  Rotation: -90, 0, 0
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -1.75
+  Rotation: 90, 0, 180
+NextNodeID: 11
+STPT: 0
