@@ -1,0 +1,17 @@
+Adds new snap points to vanilla ship parts where it felt like they were missing. Largely stays within the grid established so far. Check [b]CHANGELOG [/b]above for more info about parts changed.
+
+[size=5]Follow these [url=https://starfieldwiki.net/wiki/Starfield_Mod:Mods]Instructions[/url] ﻿to use this mod.[/size]
+
+[b]Main/Optional File[/b]
+
+The optional file is meant as addition to the main file. You can use both together, but can also use them standalone.
+
+[list]
+[*]The main file provides the additional snap points for most of the structurals, some of the cockpits and some of the landing gears.
+[*]The optional file provides only  the new snap points for the reactors and grav drives.
+[/list]
+Should be compatible with ship stat change mods. Data structures this mod changes: STMP, MSTT
+
+[size=3][b]For flips and rotations, see my other mod [url=https://www.nexusmods.com/starfield/mods/5953]Better Ship Part Flips[/url] or use [url=https://www.nexusmods.com/starfield/mods/6029]Ship Module Snap Expansion - SMSEX[/url].[/b] [/size]
+
+Since I'm not the author of Ship Module Snap Expansion, I cannot guarantee it will be compatible to my mod, but as of Sept 28 10 2023, it was compatible in that all my snaps for vanilla parts where working but flips/rotations [b]added[/b] by Ship Module Snap Expansion [b]didn't[/b] have my snaps.
