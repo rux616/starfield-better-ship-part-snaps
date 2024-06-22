@@ -20,6 +20,7 @@ v1.0.0
 ------
 - Integrated optional plugin "BetterShipPartSnaps-ReactorsGravDrives.esm" into main plugin
 - Ran plugin through Creation Kit for a sanity check
+- Fixed Panoptes engine snaps
 
 v0.4.0
 ------
