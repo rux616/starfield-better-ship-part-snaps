@@ -2,7 +2,7 @@ Better Ship Part Snaps
 ======================
 created by Freschu, maintained and updated by rux616
 
-Version: 0.4.0
+Version: 1.0.0
 
 Table Of Contents
 -----------------
@@ -34,10 +34,6 @@ Summary
 It is recommended that you use another mod or adjust your INI manually ("Spaceship" section, "fShipBuilderModuleOverlapTolerance" setting) to set your tolerances to something like -1.0 (default is -0.25), otherwise some snaps may not be usable.
 
 For flips and rotations, see another of my mods, Better Ship Part Flips (https://www.nexusmods.com/starfield/mods/5953), or use Ship Module Snap Expansion - SMSEX (https://www.nexusmods.com/starfield/mods/6029).
-
-Main/Optional File:
-- The main file provides the additional snap points for most of the structural modules, some of the cockpits and some of the landing gears.
-- The optional file provides only the new snap points for the reactors and grav drives.
 
 (For mod authors): Data structures modified or added: MSTT, STMP
 
