@@ -45,7 +45,7 @@ Since I'm not the author of Ship Module Snap Expansion, I cannot guarantee it wi
 
 Known Issues
 ------------
-- Some Panoptes engines share snaps with their smaller counterparts, resulting in some weird snap locations.
+- None
 
 
 Installation
