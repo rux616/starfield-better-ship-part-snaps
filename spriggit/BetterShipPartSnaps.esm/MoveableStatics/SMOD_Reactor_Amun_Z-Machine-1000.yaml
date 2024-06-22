@@ -1,0 +1,20 @@
+FormKey: 17ACE8:Starfield.esm
+EditorID: SMOD_Reactor_Amun_Z-Machine-1000
+FormVersion: 559
+ObjectBounds:
+  First: -4, -3.5292969, -1.7392578
+  Second: 4, 4, 1.7392578
+ODTY: 0
+SnapTemplate: 059B01:Starfield.esm
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_Amun_Z-Machine-1000.nif
+  MaterialSwaps:
+  - 08DEE8:Starfield.esm
+  - 08DF27:Starfield.esm
+  - 22BEF1:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

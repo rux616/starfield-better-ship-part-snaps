@@ -1,0 +1,20 @@
+FormKey: 16853F:Starfield.esm
+EditorID: SMOD_Lander_Hope_Hope-6_PortAft
+FormVersion: 559
+ObjectBounds:
+  First: -0.8442383, -12.1484375, -1.6884766
+  Second: 4, 4.0039062, 2.2695312
+ODTY: 0
+SnapTemplate: 00081E:BetterShipPartSnaps.esp
+Model:
+  File: Ships\Modules\Lander\SMOD\SMOD_Lander_Hope_Hope-6_PortAft.nif
+  MaterialSwaps:
+  - 0B6B14:Starfield.esm
+  - 0B6B1B:Starfield.esm
+  - 0B6B1C:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

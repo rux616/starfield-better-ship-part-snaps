@@ -1,5 +1,6 @@
 FormKey: 32B3C5:Starfield.esm
 EditorID: SMOD_Struct_Deimos_Spine_F_Aft
+FormVersion: 559
 ObjectBounds:
   First: -1.5976561, -4.0000005, -1.75
   Second: 1.5976561, 4.0000005, 1.7451172

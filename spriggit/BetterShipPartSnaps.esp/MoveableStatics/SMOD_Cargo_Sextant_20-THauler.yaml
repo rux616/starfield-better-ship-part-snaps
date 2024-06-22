@@ -1,0 +1,19 @@
+FormKey: 17AD0B:Starfield.esm
+EditorID: SMOD_Cargo_Sextant_20-THauler
+FormVersion: 559
+ObjectBounds:
+  First: -3.1777344, -4, -1.75
+  Second: 3.1777344, 4, 1.75
+ODTY: 0
+SnapTemplate: 000800:BetterShipPartSnaps.esp
+Model:
+  File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Sextant_20-THauler.nif
+  MaterialSwaps:
+  - 08DEF4:Starfield.esm
+  - 08DF21:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,5 +1,6 @@
 FormKey: 239319:Starfield.esm
 EditorID: SMOD_Struct_Deimos_Wing_Port_D
+FormVersion: 559
 ObjectBounds:
   First: -4.0703125, -4.0039062, -1.2421875
   Second: 0.0009765625, 4, 1.2382812

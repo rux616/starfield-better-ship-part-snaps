@@ -1,5 +1,6 @@
 FormKey: 17AD0B:Starfield.esm
 EditorID: SMOD_Cargo_Sextant_20-THauler
+FormVersion: 559
 ObjectBounds:
   First: -3.1777344, -4, -1.75
   Second: 3.1777344, 4, 1.75

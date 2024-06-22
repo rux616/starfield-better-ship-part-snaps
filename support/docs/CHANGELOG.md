@@ -6,6 +6,7 @@ Table Of Contents
 - [Better Ship Part Snaps](#better-ship-part-snaps)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.0.0](#v100)
     - [v0.4.0](#v040)
     - [v0.3.0](#v030)
     - [v0.2.0](#v020)
@@ -14,6 +15,14 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.0.0
+------
+- Integrated optional plugin "BetterShipPartSnaps-ReactorsGravDrives.esm" into main plugin
+- Ran plugin through Creation Kit for a sanity check
+- Fixed Panoptes engine snaps
+
+([TOC](#table-of-contents))
 
 v0.4.0
 ------

@@ -1,10 +1,14 @@
 FormKey: 00081C:BetterShipPartSnaps.esm
 EditorID: ShipSnap_SMOD_Lander_Hope_Hope-6_PortMid
+FormVersion: 559
 Nodes:
 - NodeID: 12
   Node: 04AB85:Starfield.esm
   Offset: 1.88, 0, 2.25
   Rotation: 270, 0, 0
+- NodeID: 14
+  Node: 04AB6F:Starfield.esm
+  Offset: 4, 4, 0
 - NodeID: 6
   Node: 04AB74:Starfield.esm
   Offset: 4, 0, 0
@@ -13,8 +17,5 @@ Nodes:
   Node: 04AB70:Starfield.esm
   Offset: 4, -4, 0
   Rotation: 0, 0, 180
-- NodeID: 14
-  Node: 04AB6F:Starfield.esm
-  Offset: 4, 4, 0
 NextNodeID: 15
 STPT: 0

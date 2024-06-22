@@ -6,11 +6,9 @@ It is recommended that you use another mod or adjust your INI manually ("Spacesh
 
 For flips and rotations, see another of my mods, Better Ship Part Flips (https://www.nexusmods.com/starfield/mods/5953), or use Ship Module Snap Expansion - SMSEX (https://www.nexusmods.com/starfield/mods/6029).
 
-Main/Optional File:
-- The main file provides the additional snap points for most of the structural modules, some of the cockpits and some of the landing gears.
-- The optional file provides only the new snap points for the reactors and grav drives.
-
 (For mod authors): Data structures modified or added: MSTT, STMP
+
+This is a limited version of the README. The full version can be found at the mod's GitHub repository (https://github.com/rux616/starfield-better-ship-part-snaps).
 
 Compatibility
 -------------

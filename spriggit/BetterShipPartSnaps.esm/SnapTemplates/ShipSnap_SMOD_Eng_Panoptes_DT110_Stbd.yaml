@@ -1,0 +1,18 @@
+FormKey: 000838:BetterShipPartSnaps.esm
+EditorID: ShipSnap_SMOD_Eng_Panoptes_DT110_Stbd
+FormVersion: 559
+Nodes:
+- NodeID: 12
+  Node: 04AB6F:Starfield.esm
+  Offset: 4, 4, 1.75
+- NodeID: 11
+  Node: 04AB6F:Starfield.esm
+  Offset: 4, 4, 0
+- NodeID: 14
+  Node: 04AB73:Starfield.esm
+  Rotation: 0, 0, 270
+- NodeID: 13
+  Node: 04AB6F:Starfield.esm
+  Offset: 4, 4, -1.75
+NextNodeID: 15
+STPT: 0

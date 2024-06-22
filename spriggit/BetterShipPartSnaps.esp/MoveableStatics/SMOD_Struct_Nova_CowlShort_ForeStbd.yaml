@@ -1,0 +1,20 @@
+FormKey: 17ACC8:Starfield.esm
+EditorID: SMOD_Struct_Nova_CowlShort_ForeStbd
+FormVersion: 559
+ObjectBounds:
+  First: -4.0000005, -3.9999995, -1.7558594
+  Second: -0.42968678, 4.125, 1.4726562
+ODTY: 0
+SnapTemplate: 000819:BetterShipPartSnaps.esp
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_CowlShort_ForeStbd.nif
+  MaterialSwaps:
+  - 0B6B2E:Starfield.esm
+  - 27390B:Starfield.esm
+  - 2AF7BC:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

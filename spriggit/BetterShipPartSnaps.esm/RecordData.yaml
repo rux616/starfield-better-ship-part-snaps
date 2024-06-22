@@ -6,14 +6,17 @@ GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
+  FormVersion: 559
   Stats:
-    NumRecords: 150
-    NextFormID: 2085
+    NumRecords: 164
+    NextFormID: 16779329
   Author: freschu and rux616
   Description: >-
     Adds new snap points to vanilla ship parts where it felt like they were missing. Largely stays within the grid established so far.
 
 
-    Version: 0.4.0
+    Version: 1.0.0
   MasterReferences:
   - Master: Starfield.esm
+  BNAM: 0x4D61696E00
+  INCC: 0

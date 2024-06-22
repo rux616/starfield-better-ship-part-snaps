@@ -1,5 +1,6 @@
 FormKey: 000815:BetterShipPartSnaps.esm
 EditorID: ShipSnap_Temp_1x1x1_All01
+FormVersion: 559
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm
@@ -13,16 +14,16 @@ Nodes:
   Node: 04AB74:Starfield.esm
   Offset: 4, 0, 0
   Rotation: 0, 0, 90
-- NodeID: 8
-  Node: 04AB78:Starfield.esm
-  Offset: 0, 0, -1.75
-  Rotation: 90, 0, 180
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
 - NodeID: 10
   Node: 04AB70:Starfield.esm
   Offset: 0, -4, 0
   Rotation: 0, 0, 180
-- NodeID: 4
-  Node: 04AB6F:Starfield.esm
-  Offset: 0, 4, 0
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -1.75
+  Rotation: 90, 0, 180
 NextNodeID: 11
 STPT: 0

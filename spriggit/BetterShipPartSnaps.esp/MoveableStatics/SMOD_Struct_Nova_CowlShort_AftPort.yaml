@@ -1,0 +1,20 @@
+FormKey: 17ACCB:Starfield.esm
+EditorID: SMOD_Struct_Nova_CowlShort_AftPort
+FormVersion: 559
+ObjectBounds:
+  First: 0.4296875, -4.125, -1.7558594
+  Second: 4, 4, 1.4726562
+ODTY: 0
+SnapTemplate: 000816:BetterShipPartSnaps.esp
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_CowlShort_AftPort.nif
+  MaterialSwaps:
+  - 0B6B2E:Starfield.esm
+  - 27390B:Starfield.esm
+  - 2AF7BC:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4
