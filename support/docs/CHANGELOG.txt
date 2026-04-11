@@ -6,6 +6,7 @@ Table Of Contents
 - Better Ship Part Snaps
     - Table Of Contents
 - Changelog
+    - v1.1.0
     - v1.0.0
     - v0.4.0
     - v0.3.0
@@ -15,6 +16,11 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.1.0
+------
+- Re-saved plugin with newest version of Creation Kit (v1.16.236)
+- Version bump to allow for releasing to PlayStation
 
 v1.0.0
 ------

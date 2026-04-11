@@ -1,3 +1,5 @@
+Version: 1.1.0
+
 Summary
 -------
 (Adds new snap points to vanilla ship parts where it felt like they were missing. Largely stays within the grid established so far.)
