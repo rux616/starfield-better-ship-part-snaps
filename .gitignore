@@ -2,3 +2,7 @@
 meta.ini
 # exclude log files
 *.log
+# exclude temp pas file
+.vscode/GTEMP.pas
+# exclude .spriggit file as it's dynamically generated for this project
+spriggit/.spriggit
