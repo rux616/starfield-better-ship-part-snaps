@@ -1,6 +1,6 @@
 FormKey: 00081B:BetterShipPartSnaps.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_CowlShort_MidStbd
-FormVersion: 559
+FormVersion: 582
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm
