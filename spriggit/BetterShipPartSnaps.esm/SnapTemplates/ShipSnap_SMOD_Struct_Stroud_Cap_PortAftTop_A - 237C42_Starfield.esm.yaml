@@ -1,6 +1,6 @@
 FormKey: 237C42:Starfield.esm
 EditorID: ShipSnap_SMOD_Struct_Stroud_Cap_PortAftTop_A
-FormVersion: 559
+FormVersion: 582
 Nodes:
 - NodeID: 12
   Node: 04AB85:Starfield.esm
@@ -18,12 +18,12 @@ Nodes:
   Node: 04AB74:Starfield.esm
   Offset: 4, -4, 0
   Rotation: 0, 0, 90
-- NodeID: 4
-  Node: 04AB6F:Starfield.esm
-  Offset: 0, 8, 0
 - NodeID: 8
   Node: 04AB78:Starfield.esm
   Offset: 0, 4, -1.75
   Rotation: 90, 0, 180
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 8, 0
 NextNodeID: 14
 STPT: 0

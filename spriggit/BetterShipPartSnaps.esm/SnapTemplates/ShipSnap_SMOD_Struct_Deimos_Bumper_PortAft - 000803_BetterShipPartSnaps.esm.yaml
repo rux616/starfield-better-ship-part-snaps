@@ -1,6 +1,6 @@
 FormKey: 000803:BetterShipPartSnaps.esm
 EditorID: ShipSnap_SMOD_Struct_Deimos_Bumper_PortAft
-FormVersion: 559
+FormVersion: 582
 Nodes:
 - NodeID: 5
   Node: 04AB6F:Starfield.esm

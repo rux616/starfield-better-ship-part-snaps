@@ -4,13 +4,13 @@ SpriggitSource:
 ModKey: BetterShipPartSnaps.esp
 GameRelease: Starfield
 ModHeader:
-  FormVersion: 559
+  FormVersion: 582
   Author: freschu and rux616
   Description: >-
     Adds new snap points to vanilla ship parts where it felt like they were missing. Largely stays within the grid established so far.
 
 
-    Version: 1.0.0
+    Version: 1.1.0
   MasterReferences:
   - Master: Starfield.esm
   Branch: Main

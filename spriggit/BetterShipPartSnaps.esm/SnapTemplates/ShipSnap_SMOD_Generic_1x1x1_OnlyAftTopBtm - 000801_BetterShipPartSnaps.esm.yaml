@@ -1,6 +1,6 @@
 FormKey: 000801:BetterShipPartSnaps.esm
 EditorID: ShipSnap_SMOD_Generic_1x1x1_OnlyAftTopBtm
-FormVersion: 559
+FormVersion: 582
 Nodes:
 - NodeID: 9
   Node: 04AB77:Starfield.esm

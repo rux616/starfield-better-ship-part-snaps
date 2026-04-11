@@ -1,6 +1,6 @@
 FormKey: 2258EE:Starfield.esm
 EditorID: ShipSnap_SMOD_Cargo_Sextant_10T-Hauler_StbTop
-FormVersion: 559
+FormVersion: 582
 Nodes:
 - NodeID: 11
   Node: 04AB73:Starfield.esm
@@ -13,12 +13,12 @@ Nodes:
   Node: 04AB70:Starfield.esm
   Offset: 4, -4, 0
   Rotation: 0, 0, 180
-- NodeID: 4
-  Node: 04AB6F:Starfield.esm
-  Offset: 4, 4, 0
 - NodeID: 8
   Node: 04AB78:Starfield.esm
   Offset: 4, 0, -1.75
   Rotation: 90, 0, 180
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 4, 4, 0
 NextNodeID: 12
 STPT: 0

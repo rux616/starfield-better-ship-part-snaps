@@ -1,6 +1,6 @@
 FormKey: 23338B:Starfield.esm
 EditorID: ShipSnap_SMOD_Eng_Slayton_SA-4110_PortBtm
-FormVersion: 559
+FormVersion: 582
 Nodes:
 - NodeID: 9
   Node: 04AB77:Starfield.esm
@@ -12,15 +12,15 @@ Nodes:
   Node: 04AB74:Starfield.esm
   Offset: 4, 0, -1.75
   Rotation: 0, 0, 90
-- NodeID: 4
-  Node: 04AB6F:Starfield.esm
-  Offset: 0, 4, -1.75
-- NodeID: 3
-  Node: 04AB6F:Starfield.esm
-  Offset: -4, 4, -1.75
 - NodeID: 8
   Node: 04AB78:Starfield.esm
   Offset: 0, 0, -1.75
   Rotation: 90, 0, 180
+- NodeID: 3
+  Node: 04AB6F:Starfield.esm
+  Offset: -4, 4, -1.75
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, -1.75
 NextNodeID: 11
 STPT: 0
