@@ -1,0 +1,21 @@
+FormKey: 23BC50:Starfield.esm
+EditorID: SMOD_Struct_Stroud_Cap_Btm_A
+FormVersion: 559
+ObjectBounds:
+  First: -3.9902344, -4, -1.75
+  Second: 3.9902344, 4, 1.7509766
+SnapTemplate: 059B01:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_Cap_Btm_A.nif
+  MaterialSwaps:
+  - 2AF782:Starfield.esm
+  - 2AF783:Starfield.esm
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
+Keywords:
+- 1BB401:Starfield.esm
+- 1D9C96:Starfield.esm
+- 207960:Starfield.esm
+DATA: 6
+MSMO: 1000
